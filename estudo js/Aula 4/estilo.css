@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.container{
+    background-color: aquamarine;
+    align-content: center;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+main{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
